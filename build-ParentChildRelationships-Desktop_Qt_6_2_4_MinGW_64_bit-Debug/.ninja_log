@@ -1,8 +1,0 @@
-# ninja log v5
-1	257	7000761716930188	ParentChildRelationships_autogen/timestamp	6be8439abfc4fe7e
-258	329	7000761718699835	CMakeFiles/ParentChildRelationships.dir/ParentChildRelationships_autogen/mocs_compilation.cpp.obj	1c815a3624552138
-1	257	7000761716930188	ParentChildRelationships_autogen/mocs_compilation.cpp	6be8439abfc4fe7e
-263	1861	7000761734004908	CMakeFiles/ParentChildRelationships.dir/main.cpp.obj	64d16a27174adae6
-1	257	7000761716930188	C:/Users/KEOHDURGUT/Documents/QtProjects/build-ParentChildRelationships-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/ParentChildRelationships_autogen/timestamp	6be8439abfc4fe7e
-1	257	7000761716930188	C:/Users/KEOHDURGUT/Documents/QtProjects/build-ParentChildRelationships-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/ParentChildRelationships_autogen/mocs_compilation.cpp	6be8439abfc4fe7e
-1863	1974	7000761735115429	ParentChildRelationships.exe	5473c56da15af47
